@@ -16,9 +16,9 @@ Code blocks (\`\`\`)
 
 ## Not Supported Components
 Colored / Language Code blocks
-> \`\`\`js
-> // js is awesome!
-> \`\`\`
+\`\`\`js
+// js is awesome!
+\`\`\`
 
 Links (https:// or http://)
 

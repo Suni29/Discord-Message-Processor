@@ -1,4 +1,4 @@
-# Discord Message Processor ## Client / Browser only
+# Discord Message Processor — Client / Browser only
 Discord Message Processor is a simple javascript function that converts a html message into a text.
 
 
@@ -37,7 +37,7 @@ Colored / Language Code blocks
 Links (https:// or http://)
 
 
-## Devtools Problem ## Client only problem
+## Devtools Problem — Client only problem
 
 Discord recently had an update where they disabled the devtools, here is how to fix it.
 
